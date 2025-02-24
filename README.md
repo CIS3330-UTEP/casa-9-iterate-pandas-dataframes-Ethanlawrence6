@@ -6,7 +6,7 @@ Go over the tutorial on how to iterate Pandas dataframes using multiple methods 
 
 Then implement a program that iterates the data inside of **big-mac-full-index.csv** on **casa_8.py** using the following methods from the tutorial:
 
-1. Method 4: Using iterrows() method
-2. Method 6: Using apply() method
+1. Method 1: Using iterrows() method
+2. Method 3: Using apply() method
 
 *This repository does not have auto-grading enabled. Please make sure you commit and push the latest code into GitHub.*
